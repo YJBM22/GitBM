@@ -1,7 +1,6 @@
-孙悟空的自我介绍 <!-- 一级标题 -->
+# 孙悟空的自我介绍 <!-- 一级标题 -->
 <!-- 图片，设置图片宽度为200 -->
-![孙悟空](https://example.com/sunwukong.jpg){: width="200"}
-
+![孙悟空](https://github.com/YJBM22/GitBM/blob/master/image/1.png)
 大家好，我是孙悟空<!-- 加粗 -->，我的身份是齐天大圣<!-- 斜体 -->。以下是我的自我介绍：
 
 ---
@@ -39,6 +38,12 @@ import numpy as np
 print(np.array([1, 2, 3]) ** 2)<!-- 代码块 -->
 其中执行print(np.array([1, 2, 3]) ** 2)<!-- 行间代码 -->可输出结果。
 我最喜欢的环境管理工具是conda
-“01 环境搭建的截图一”<!-- 图片，设置图片宽度为800 -->（https://github.com/YJBM22/GitBM/blob/master/image/1.png）
+“01 环境搭建的截图一”![](https://github.com/YJBM22/GitBM/blob/master/image/2.png)<!-- 图片，设置图片宽度为800 -->
 我可以在IDE上使用我建立的虚拟环境
-“01 环境搭建的截图一”<!-- 图片，设置图片宽度为800 -->
+“01 环境搭建的截图一”![](https://github.com/YJBM22/GitBM/blob/master/image/3.png)<!-- 图片，设置图片宽度为800 -->
+
+
+
+
+
+
